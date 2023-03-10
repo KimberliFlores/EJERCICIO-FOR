@@ -1,0 +1,15 @@
+C:\Users\50373\OneDrive\Escritorio\EJERCICIO FOR\EJERCICIO FOR\EJERCICIO FOR\bin\Debug\net6.0\EJERCICIO FOR.exe
+C:\Users\50373\OneDrive\Escritorio\EJERCICIO FOR\EJERCICIO FOR\EJERCICIO FOR\bin\Debug\net6.0\EJERCICIO FOR.deps.json
+C:\Users\50373\OneDrive\Escritorio\EJERCICIO FOR\EJERCICIO FOR\EJERCICIO FOR\bin\Debug\net6.0\EJERCICIO FOR.runtimeconfig.json
+C:\Users\50373\OneDrive\Escritorio\EJERCICIO FOR\EJERCICIO FOR\EJERCICIO FOR\bin\Debug\net6.0\EJERCICIO FOR.dll
+C:\Users\50373\OneDrive\Escritorio\EJERCICIO FOR\EJERCICIO FOR\EJERCICIO FOR\bin\Debug\net6.0\EJERCICIO FOR.pdb
+C:\Users\50373\OneDrive\Escritorio\EJERCICIO FOR\EJERCICIO FOR\EJERCICIO FOR\obj\Debug\net6.0\EJERCICIO FOR.csproj.AssemblyReference.cache
+C:\Users\50373\OneDrive\Escritorio\EJERCICIO FOR\EJERCICIO FOR\EJERCICIO FOR\obj\Debug\net6.0\EJERCICIO FOR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\50373\OneDrive\Escritorio\EJERCICIO FOR\EJERCICIO FOR\EJERCICIO FOR\obj\Debug\net6.0\EJERCICIO FOR.AssemblyInfoInputs.cache
+C:\Users\50373\OneDrive\Escritorio\EJERCICIO FOR\EJERCICIO FOR\EJERCICIO FOR\obj\Debug\net6.0\EJERCICIO FOR.AssemblyInfo.cs
+C:\Users\50373\OneDrive\Escritorio\EJERCICIO FOR\EJERCICIO FOR\EJERCICIO FOR\obj\Debug\net6.0\EJERCICIO FOR.csproj.CoreCompileInputs.cache
+C:\Users\50373\OneDrive\Escritorio\EJERCICIO FOR\EJERCICIO FOR\EJERCICIO FOR\obj\Debug\net6.0\EJERCICIO FOR.dll
+C:\Users\50373\OneDrive\Escritorio\EJERCICIO FOR\EJERCICIO FOR\EJERCICIO FOR\obj\Debug\net6.0\refint\EJERCICIO FOR.dll
+C:\Users\50373\OneDrive\Escritorio\EJERCICIO FOR\EJERCICIO FOR\EJERCICIO FOR\obj\Debug\net6.0\EJERCICIO FOR.pdb
+C:\Users\50373\OneDrive\Escritorio\EJERCICIO FOR\EJERCICIO FOR\EJERCICIO FOR\obj\Debug\net6.0\EJERCICIO FOR.genruntimeconfig.cache
+C:\Users\50373\OneDrive\Escritorio\EJERCICIO FOR\EJERCICIO FOR\EJERCICIO FOR\obj\Debug\net6.0\ref\EJERCICIO FOR.dll
